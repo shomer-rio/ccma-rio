@@ -1,2 +1,2 @@
-# ccma-rio.github.io
+# ccma-rio
 CCMA Page
